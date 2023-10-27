@@ -1,1 +1,5 @@
 первый мой документ в гите.
+
+
+git config --global user.name “Bazhenov Aleksandr”
+git config --global user.email sandroGB@mail.ru
